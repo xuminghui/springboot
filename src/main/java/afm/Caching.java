@@ -8,7 +8,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 /**
- * Created by rchen on 3/22/16.
+ * Created by rchen on 3/22/161.
  */
 @SpringBootApplication
 @EnableAutoConfiguration
